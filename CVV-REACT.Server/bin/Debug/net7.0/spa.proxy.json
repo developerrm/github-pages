@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\ROGER-JOB\\Proyectos\\CVV-REACT\\CVV-REACT\\CVV-REACT.Server\\..\\cvv-react.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CVV-REACT.Server.props" />
+</Project>
